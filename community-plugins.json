@@ -29118,5 +29118,13 @@
     "author": "abdur-nur-porag",
     "description": "This plugin has not been manually reviewed by Obsidian staff. An interactive event and task manager dashboard featuring modern Calendar, List, and Timeline views with live subtask tracking and system reminders.",
     "repo": "abdur-nur-porag/CEvent-Planner"
-  }
+  },
+  {                                                                                                                     
+    "id": "project-dashboard",                                                                                          
+    "name": "Project Dashboard",                                                                                        
+    "author": "tfotl",                                                                                                  
+    "description": "Glassmorphism-styled project management dashboard with kanban/table dual view for Obsidian vault    
+  documents",                                                                                                           
+    "repo": "tfotl/obsidian-project-dashboard"                                                                          
+  } 
 ]
